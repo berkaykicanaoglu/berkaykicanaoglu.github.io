@@ -20,8 +20,10 @@ author: Berkay Kicanaoglu
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Services: "services"
+  Whoami: "aboutme"
+  Research: "research"
+  Services: 
+   - Consulting: "consulting"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
