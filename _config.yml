@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Personal Website
+title: Berkay Kicanaoglu
 
 # Your name to show in the footer
 author: Berkay Kicanaoglu
@@ -21,10 +21,11 @@ author: Berkay Kicanaoglu
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Services: "services"
+  #Resources:
+    #- Beautiful Jekyll: "https://beautifuljekyll.com"
+    #- Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
