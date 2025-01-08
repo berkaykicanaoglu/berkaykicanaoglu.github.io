@@ -24,6 +24,7 @@ navbar-links:
   Research: "research"
   Services: 
    - Consulting: "consulting"
+  Contact: "contactme"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
